@@ -7,7 +7,7 @@ This is a step-by-step protocol to set up a simple, static loading scenario incl
 
  [Part 1](https://github.com/acsharp-biomech/Abaqus-workflow/blob/main/Part-1.md) - Importing a model, importing a second part, and assigning material properties
 
- [Part 2](https://github.com/acsharp-biomech/Abaqus-workflow/blob/main/Part-2.md) - creating an analysis step, creating a Set, a "floating" datum and RP, and a local co-ordinate system
+ [Part 2](https://github.com/acsharp-biomech/Abaqus-workflow/blob/main/Part-2.md) - creating an analysis step, creating a Set, a "floating" datum and RP, and a local coordinate system
 
  [Part 3](https://github.com/acsharp-biomech/Abaqus-workflow/blob/main/Part-3.md) - applying boundary conditions and loads
 
